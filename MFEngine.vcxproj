@@ -164,6 +164,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="nav\universe.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
